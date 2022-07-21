@@ -10,9 +10,9 @@ This app uses binary classifiers such as Logistic regression and SVM to give an 
 
 ## performances:
 
-Diabetes data : 89% recall,  91% precision
-Parkinsons data : 85% recall,  89% precision
-Heart Disease data : 91% recall,  96% precision
+- Diabetes data : 89% recall,  91% precision
+- Parkinsons data : 85% recall,  89% precision
+- Heart Disease data : 91% recall,  96% precision
 
 
 
